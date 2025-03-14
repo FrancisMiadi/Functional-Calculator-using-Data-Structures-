@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project is entirely based on my idea and specifications. It is a **calculator system** that allows users to input mathematical equations through a Graphical User Interface **(GUI)**. The system checks the validity of the equations, converts valid ones to prefix notation, evaluates them, and displays the results. The application is developed using **Java** with **JavaFX**, featuring a GUI with both mouse and keyboard controls. It has been compiled into an executable **(.exe)** file.
 
-## 🔧 Features
+## 💡 Features
 - **User input support** via a GUI.
 - **Checks validity** of each equation (balanced parentheses, correct operators, etc.).
 - **Converts valid infix equations to prefix notation**.
@@ -21,7 +21,7 @@ This project is entirely based on my idea and specifications. It is a **calculat
 4. **Prefix expressions are evaluated** to obtain results.
 5. The results are **displayed in the GUI**.
 
-## 🚀 Technologies Used
+## 🖥️ Technologies Used
 - **Java** (for core logic)
 - **JavaFX** (for GUI)
 - **Prefix Notation Conversion** (Algorithm Implementation)
